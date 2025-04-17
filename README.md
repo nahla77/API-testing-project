@@ -63,8 +63,6 @@ api-testing-reqres/
 
 ---
 
-## 📷 Optional Screenshots
-
-Include screenshots of test results or specific test scripts for better demonstration .
+.
 
 
